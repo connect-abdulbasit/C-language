@@ -1,2 +1,1 @@
-# Tic-Tac-Toe-Game
-A Tic Tac Toe game in c language 
+# C language 
